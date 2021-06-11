@@ -1,1 +1,1 @@
-console.log( 'branch is created and send to the apllication')
+console.log( 'branch is apllication')
